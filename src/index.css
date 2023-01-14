@@ -1,0 +1,52 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/*************** Home-left ****************/
+
+.left{
+  background-color: aqua;
+  height: 100vh !important;
+  width: 18% !important;
+}
+
+li > a {
+  text-transform: capitalize;
+  font-family: Montserrat;
+}
+
+ul > li{
+  margin-left: 10%;
+}
+
+.heading {
+  font-family: maicrosoft himalaya;
+}
+
+.logo{
+  font-family: platino Linotype;
+}
+
+.logbtn{
+  margin:auto;
+  margin-top: 100px;
+  width: 70% !important;
+}
+
+.logoutbtn{
+  padding: 5px;
+  background-color: rgb(82, 14, 243);
+  border: none;
+}
+
+
+/*************** Home-Right ****************/
+
+
+.right{
+ 
+  height: 100vh !important;
+  width: 82%;
+}
