@@ -7,7 +7,7 @@
 /*************** Home-left ****************/
 
 .left{
-  background-color: aqua;
+  background-color: #EDF0F4;
   height: 100vh !important;
   width: 18% !important;
 }
@@ -25,9 +25,10 @@ ul > li{
   font-family: maicrosoft himalaya;
 }
 
-.logo{
+/* .logo{
   font-family: platino Linotype;
-}
+  font-size: 2.5rem;
+} */
 
 .logbtn{
   margin:auto;
@@ -37,8 +38,16 @@ ul > li{
 
 .logoutbtn{
   padding: 5px;
-  background-color: rgb(82, 14, 243);
+  background-color: #6F7CF0;
   border: none;
+}
+
+.headtext{
+  margin-left: 10%;
+}
+
+.image > img{
+  margin-left: -50px !important;
 }
 
 
@@ -46,7 +55,7 @@ ul > li{
 
 
 .right{
- 
+
   height: 100vh !important;
   width: 82%;
 }
